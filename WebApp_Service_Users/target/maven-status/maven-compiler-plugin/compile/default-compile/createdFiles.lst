@@ -1,0 +1,7 @@
+ploton\webapp_service_users\services\UserService.class
+ploton\webapp_service_users\utils\EntityUtils.class
+ploton\webapp_service_users\repositories\UserRepository.class
+ploton\webapp_service_users\repositories\UserServiceImpl.class
+ploton\webapp_service_users\controllers\UserController.class
+ploton\webapp_service_users\WebAppServiceUsersApplication.class
+ploton\webapp_service_users\entities\UserEntity.class
